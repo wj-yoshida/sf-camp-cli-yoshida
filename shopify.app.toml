@@ -2,7 +2,7 @@
 
 name = "sf-camp"
 client_id = "1f44817248ad542b00e203fda724a8b7"
-application_url = "https://dish-corporate-yo-beast.trycloudflare.com"
+application_url = "https://funk-courtesy-outputs-complaints.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://dish-corporate-yo-beast.trycloudflare.com/auth/callback",
-  "https://dish-corporate-yo-beast.trycloudflare.com/auth/shopify/callback",
-  "https://dish-corporate-yo-beast.trycloudflare.com/api/auth/callback",
-  "https://dish-corporate-yo-beast.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://funk-courtesy-outputs-complaints.trycloudflare.com/auth/callback",
+  "https://funk-courtesy-outputs-complaints.trycloudflare.com/auth/shopify/callback",
+  "https://funk-courtesy-outputs-complaints.trycloudflare.com/api/auth/callback",
+  "https://funk-courtesy-outputs-complaints.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
