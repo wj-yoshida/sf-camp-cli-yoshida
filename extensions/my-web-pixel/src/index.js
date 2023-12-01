@@ -7,4 +7,8 @@ register(({ configuration, analytics, browser }) => {
     analytics.subscribe('page_viewed', (event) => {
       console.log('Page viewed', event);
     });
+    /*
+    analytics.subscribe('all_events', (event) => {
+      console.log(`Web Pixel event received: ${JSON.stringify(event, null, 4)}`);
+    }); */
 });
